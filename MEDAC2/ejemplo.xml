@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ventas SYSTEM "lasventas.dtd">
+<ventas>
+	<venta>
+	
+	<fecha>22-09-200</fecha>
+	<coche>
+		<marca>Audi</marca>
+		<modelo>A3</modelo>
+		<potencia>1200</potencia>
+	</coche>
+	<nombre_vendedor>Raul</nombre_vendedor>
+	<nombre_comprador>Alberto</nombre_comprador>
+	</venta>
+	
+
+
+</ventas>

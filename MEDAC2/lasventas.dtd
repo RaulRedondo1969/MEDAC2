@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT ventas (venta*)>
+<!ELEMENT venta (fecha,coche,nombre_vendedor?,nombre_comprador?)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT coche (marca,modelo,potencia)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT potencia (#PCDATA)>
+<!ELEMENT nombre_vendedor (#PCDATA)>
+<!ELEMENT nombre_comprador (#PCDATA)>
+
+
+
+
+
